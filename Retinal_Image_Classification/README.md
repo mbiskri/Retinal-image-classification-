@@ -30,8 +30,7 @@ scikit-learn
 - **Evaluation:** Used metrics such as accuracy, classification reports, and confusion matrices to evaluate performance.
 
 ## Results
-
-[Include a description of your results, such as accuracy percentage, confusion matrix image, or performance summary.]
+![image](https://github.com/user-attachments/assets/4aa44664-8207-4946-adfe-279dec6d9b0a)
 
 ## How to Run
 
